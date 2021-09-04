@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiten Singla</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiten1502&label=Profile%20views&color=0e75b6&style=flat" alt="hiten1502" /> </p>
 <p><img align="right" alt="gif" src="https://github.com/Hiten1502/Hiten1502/blob/main/gif.gif" width="500" height="320"></p> 
 
 - 😎 I'm currently working on something cool
@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiten1502" alt="hiten1502" /></a> </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiten1502&label=Profile%20views&color=0e75b6&style=flat" alt="hiten1502" /> </p>
+
 
 
 
