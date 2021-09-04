@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hiten Singla</h1>
 
+- 😎 I'm currently working on something cool
+- 💻 I’m currently learning DSA with C/C++
+- 😊 Ask me about anything.I am happy to help
+- 📫 How to reach me **hitensingla1502@gmail.com**
 
 <p><img align="right" alt="gif" src="https://github.com/Hiten1502/Hiten1502/blob/main/gif.gif" width="500" height="320"></p> 
 
@@ -7,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiten1502" alt="hiten1502" /></a> </p>
 
-- 📫 How to reach me **hitensingla1502@gmail.com**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
