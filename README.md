@@ -1,3 +1,5 @@
+
+<h1> Video Resume :: https://drive.google.com/drive/u/3/folders/1XTHQ86cYdqhlED_DfWsOzJVCiFHJ_ilx </h1>
 <h1 align="center">Hi 👋, I'm Hiten Singla</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiten1502&label=Profile%20views&color=0e75b6&style=flat" alt="hiten1502" /> </p>
 <p><img align="right" alt="gif" src="https://github.com/Hiten1502/Hiten1502/blob/main/gif.gif" width="500" height="320"></p> 
